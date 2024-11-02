@@ -4,7 +4,7 @@
     Format:
     ```json
     {
-      "manufacture": {
+      "manufacturer": {
         "model": ["cartridges", "list"]
       }
     }
