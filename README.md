@@ -9,3 +9,10 @@
       }
     }
     ```
+2. **ip-phones.json** - List of IP-Phones. \
+   Format:
+   ```json
+   {
+     "manufacturer": ["models", "list"]
+   }
+   ```
