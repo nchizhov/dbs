@@ -39,5 +39,30 @@
     "GRP2602G", "GRP2601", "GRP2601P", "GRP2601W", "GXP1630", "GXP1628", "GXP1620", "GXP1625", "GXP1610", "GXP1610P",
     "GXP1615", "GXP2170", "GXP2160", "GXP2140", "GXP2135", "GXP2130", "GXP1780", "GXP1782", "GXP1760W", "GHP630", "GHP630W",
     "GHP631", "GHP631W", "GHP620", "GHP620W", "GHP621", "GHP621W", "GHP610", "GHP610W", "GHP611", "GHP611W"
+  ],
+  "Vogtec": [
+    "T11E", "T12K", "T12V", "T12SN", "T11", "T12H", "T12", "T12S", "D379I", "T12SW", "T19", "T16", "M16", "T370"
+  ],
+  "Vtech": [
+    "NG-S3311", "CTM-S2212", "CTM-S2213", "NG-S3211", "CTM-S2315", "CTM-S2312", "S2100", "S2211-L", "S2210-L", "S2310",
+    "S2221-L", "S2220-L", "S2320"
+  ],
+  "Snom": [
+    "D865", "D862", "D815W", "D812", "D785", "D785N", "D735", "D717", "D713", "D385", "D385N", "D335", "D120", "D140",
+    "D150", "D315", "D715"
+  ],
+  "Positron": [
+    "IP410G", "IP410C", "IP408", "IP304C", "IP304"
+  ],
+  "Polycom": [
+    "VVX 101", "VVX 301", "VVX 311", "VVX 401", "VVX 411", "VVX 400", "VVX 501", "VVX 1500D", "SoundPoint IP 450",
+    "SoundPoint IP 550", "VVX 500", "CX600", "SoundPoint IP 650", "VVX 600", "SoundPoint IP 560", "VVX 601",
+    "SoundPoint IP 670", "VVX 1500", ""
+  ],
+  "Audiocodecs": [
+    "C450HD", "445HD", "405HD"
+  ],
+  "Aastra": [
+    "6863i", "6865i", "6867i", "6869i", "6920", "6930", "6940"
   ]
 }
