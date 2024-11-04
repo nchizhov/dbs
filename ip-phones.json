@@ -57,7 +57,7 @@
   "Polycom": [
     "VVX 101", "VVX 301", "VVX 311", "VVX 401", "VVX 411", "VVX 400", "VVX 501", "VVX 1500D", "SoundPoint IP 450",
     "SoundPoint IP 550", "VVX 500", "CX600", "SoundPoint IP 650", "VVX 600", "SoundPoint IP 560", "VVX 601",
-    "SoundPoint IP 670", "VVX 1500", ""
+    "SoundPoint IP 670", "VVX 1500"
   ],
   "Audiocodecs": [
     "C450HD", "445HD", "405HD"
